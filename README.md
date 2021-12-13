@@ -8,7 +8,6 @@
       <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Suicolen&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=2ac0d1&text_color=2ac0d1&show_icons=true&bg_color=00000000&hide_border=true&icon_color=2ac0d1&hide_title=true&count_private=true&enable_animations=true" />
     </td>
   </tr>
-</p>
 
 <p align="center">
   <tr>
