@@ -14,7 +14,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Suicolen">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Suicolen&theme=tokyonight_duo&hide_border=true&ring==2ac0d1&currStreakLabel=2ac0d1&sideNums=2ac0d1&dates==2ac0d1&sideLabels=2ac0d1&currStreakNum=2ac0d1&border=2ac0d1&stroke=00000000&background=00000000&fire=2ac0d1" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Suicolen&theme=tokyonight_duo&hide_border=true&ring==2ac0d1&currStreakLabel=2ac0d1&sideNums=2ac0d1&dates==2ac0d1&sideLabels=2ac0d1&currStreakNum=b01c92&border=2ac0d1&stroke=00000000&background=00000000&fire=2ac0d1" />
     </td>
   </tr>
 </p>
