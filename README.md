@@ -1,7 +1,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Suicolen">
-      <img src="https://github-readme-stats.vercel.app/api/?username=Suicolen&title_color=5ae87c&text_color=185480&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=Suicolen&title_color=185480&text_color=185480&show_icons=true&bg_color=00000000&hide_border=true&icon_color=185480&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
     </td>
       <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Suicolen">
@@ -14,7 +14,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Suicolen">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Suicolen&theme=tokyonight_duo&hide_border=true&ring==185480&currStreakLabel=5ae87c&sideNums=5ae87c&dates==185480&sideLabels=5ae87c&currStreakNum=5ae87c&border=DD2727&stroke=00000000&background=00000000&fire=185480" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Suicolen&theme=tokyonight_duo&hide_border=true&ring==185480&currStreakLabel=185480&sideNums=185480&dates==185480&sideLabels=185480&currStreakNum=185480&border=DD2727&stroke=00000000&background=00000000&fire=185480" />
     </td>
   </tr>
 </p>
